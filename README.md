@@ -1,8 +1,7 @@
-<h1 align="center">Yuhuu..!!</h1>
-
 <div align="center">
   <h2>°•   ᛞᚨᚡᛁᛞ ᚹᚨᚺᚤᚢ ᚺᛖᚱᛞᚤᚨᚾᛋᚤᚨᚺ   •°</h2>
   <img src="https://fontvilla.com/wp-content/uploads/2021/11/Runic-Translator.gif" width="500px" />
+  <h2></h2>
 
 <div align="center">
   <h3>--- About My Skills ---</h3><br>
@@ -22,7 +21,9 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;  
 
-</div><br><br>
+</div>
+
+<h2 align="center"></h2>
 
 <h3 align="center">Reach Me ✨</h3>
 <div align="center">
