@@ -1,25 +1,21 @@
 <div align="center">
   <h2>°•   ᛞᚨᚡᛁᛞ ᚹᚨᚺᚤᚢ ᚺᛖᚱᛞᚤᚨᚾᛋᚤᚨᚺ   •°</h2>
-  <img src="https://fontvilla.com/wp-content/uploads/2021/11/Runic-Translator.gif" width="500px" />
+  <img src="https://i.pinimg.com/1200x/f0/8a/f1/f08af1a7c676c52ec5d1bc2a96030358.jpg" width="500px" />
   <h2></h2>
 
 <div align="center">
-  <h3>--- About My Skills ---</h3><br>
+  <h3>===== ABOUT MY SKILLS =====</h3>
   
-  🟡 Languages 🟡<br>
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp; 
-  
-  🔵 IDEs/Editors 🔵<br>
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/GameMaker_Studio_2_logo.png/800px-GameMaker_Studio_2_logo.png" width="190px" />
-  
-  ⚪️ Design ⚪️<br>
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-  
-  🟤 Version Control 🟤<br>
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;  
+  • Languages •<br>
+  <img src="https://styles.redditmedia.com/t5_2qh6x/styles/communityIcon_xgorujtjrj571.png?width=256&s=12f60b3bcbd6ac2aea90e277b1ff327f91523032" width="50px" />
+  <img src="https://academy.alterra.id/blog/wp-content/uploads/2021/07/Logo-Java.png" width="75px" />
+
+  • IDEs/Editors •<br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" width="40px" />
+  <img src="https://pbs.twimg.com/profile_images/1702270561248792576/3imykMLC_400x400.png" width="50px" />
+
+  • Design •<br>
+  <img src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-png-circle-full-colour-white-font.png" width="50px" />
 
 </div>
 
