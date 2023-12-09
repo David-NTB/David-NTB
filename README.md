@@ -1,6 +1,6 @@
 <div align="center">
-  <h2>°•   ᛞᚨᚡᛁᛞ ᚹᚨᚺᚤᚢ ᚺᛖᚱᛞᚤᚨᚾᛋᚤᚨᚺ   •°</h2>
-  <img src="https://i.pinimg.com/1200x/f0/8a/f1/f08af1a7c676c52ec5d1bc2a96030358.jpg" width="500px" />
+  <h2>°•   -../.-/...-/../-..//.--/.-/..../-.--/..-//...././.-./-../-.--/.-/-./.../-.--/.-/....//   •°</h2>
+  <img src="https://www.itwissen.info/lex-images/Morse-Code.png" width="500px" />
   <h2></h2>
 
 <div align="center">
