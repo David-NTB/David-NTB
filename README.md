@@ -21,11 +21,3 @@
 
 <h2 align="center"></h2>
 
-<h3 align="center">Reach Me ✨</h3>
-<div align="center">
- 
- [![Instagram Badge](https://img.shields.io/badge/-david.ntb-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/david.ntb/)](https://www.instagram.com/david.ntb/) 
- [![Gmail Badge](https://img.shields.io/badge/-davidntb7000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidntb7000@gmail.com)](mailto:davidntb7000@gmail.com) 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-fadillaratna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fadillaratna)](https://www.linkedin.com/in/fadillaratna) -->
-  
-</div>
