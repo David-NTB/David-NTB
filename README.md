@@ -1,86 +1,90 @@
-<h1 align="center">🎮 Kambing Gunung</h1>
+<h1 align="center">🎮 KAMBING GUNUNG 🎮</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=600&lines=Software+Engineer;2D+Platformer+Game+Developer;System+Architect;Building+Games+with+Structure" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=Software+Engineer;2D+Platformer+Game+Developer;System+Architect;Initializing+Game+Systems..." />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-00FF00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MODE-PIXEL_CORE-00FF00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ENGINEERING-ARCHITECTURE_FIRST-00FF00?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🕹️ PLAYER PROFILE
 
-**Class:** Game Developer  
-**Specialization:** 2D Platformer Architecture  
-**Focus:** Mechanics • Physics • State Machines • Clean Systems  
-
-> “A good game feels simple.  
-> A good system makes it possible.”
+CLASS : GAME DEVELOPER
+SPECIALTY : 2D PLATFORMER SYSTEMS
+FOCUS : MECHANICS > GRAPHICS
+ARCHETYPE : SYSTEM BUILDER
 
 ---
 
-## 🎮 CORE SKILLS
+## 🎮 SKILL TREE
 
-### 🧠 Game Development
-- 2D Platformer Mechanics
-- Tilemap & Level Structure
-- Collision Detection & Physics Logic
-- State Machine Design Pattern
-- Modular Game Architecture
-- Object-Oriented Game Systems
-
----
-
-### 💻 Programming Arsenal
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/CSharp-000000?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+### ⚙ GAME DEVELOPMENT
+- ▣ 2D Platformer Mechanics
+- ▣ Collision Detection System
+- ▣ Physics Logic Implementation
+- ▣ State Machine Architecture
+- ▣ Modular Game Components
+- ▣ Game Loop Optimization
 
 ---
 
-### 🌐 Web Development
-![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
-![Bulma](https://img.shields.io/badge/Bulma-000000?style=for-the-badge&logo=bulma&logoColor=white)
+### 💾 PROGRAMMING LANGUAGES
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=00FF00)
+![C#](https://img.shields.io/badge/CSharp-111111?style=for-the-badge&logo=csharp&logoColor=00FF00)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=00FF00)
+![Dart](https://img.shields.io/badge/Dart-111111?style=for-the-badge&logo=dart&logoColor=00FF00)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=00FF00)
 
 ---
 
-### 🖥️ Desktop Systems
-- Java-based Applications
-- C# Desktop Applications
-- Structured Application Design
-- Architecture-first development
+### 🌐 WEB STACK
+![NodeJS](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=00FF00)
+![ReactJS](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=00FF00)
+![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=00FF00)
+![Bulma](https://img.shields.io/badge/Bulma-111111?style=for-the-badge&logo=bulma&logoColor=00FF00)
+
+---
+
+### 🖥 DESKTOP DEVELOPMENT
+- ▣ Java Applications
+- ▣ C# Applications
+- ▣ Architecture-Driven Design
 
 ---
 
 ## 🧩 CURRENT QUEST
-
-🎯 Building a 2D Platformer from scratch  
-⚙️ Designing scalable game architecture  
-🧠 Implementing robust collision systems  
-📦 Writing modular, reusable components  
-🚀 Optimizing performance & game loop logic  
+BUILDING 2D PLATFORMER CORE ENGINE
+IMPLEMENTING TILE-BASED COLLISION
+REFACTORING GAME STATE SYSTEM
+OPTIMIZING UPDATE LOOP
 
 ---
 
 ## 📊 PLAYER STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kambing-Gunung&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=chartreuse-dark&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kambing-Gunung&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🧱 DESIGN PHILOSOPHY
-- Mechanics before graphics.
-- Structure before scale.
-- Architecture before expansion.
+## 🧠 DESIGN PHILOSOPHY
+IF (MECHANICS == SOLID)
+GAME = FUN;
+ELSE
+REFACTOR();
 
 ---
 
-## 🕹️ STATUS
+## 🟢 SYSTEM STATUS
 
-> Currently in Development Mode...
+> RUNNING...
