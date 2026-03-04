@@ -1,48 +1,69 @@
-<h1 align="center">Hi, I'm Bawe 👋</h1>
+<h1 align="center">Hi, I'm Kambing Gunung 👋</h1>
 <p align="center">
-  <b>Software Engineer | System Thinker | Field Explorer</b>
+  <b>Software Engineer | Game Developer | System Architect</b>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Focused on Software Engineering
-- 📱 Mobile App Development (Flutter)
-- 🗺️ System-based thinking & structured workflow
-- 🏕️ MAPALA Mahitkom – Operational & Safety mindset
-- 🤖 Interested in AI as “Entity”, not just tool
+- 🎮 Focused on 2D Game Development (Platformer)
+- 💻 Software Engineering & Clean Architecture
+- 🧩 System Design & Structured Thinking
+- 🖥️ Web & Desktop Development
+- ⚙️ Builder mindset: structure first, implementation second
 
-> “Build systems that work without depending on people’s mood.”
+> “Good systems create good results.”
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 📱 Framework
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+---
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### 🎮 Game Development
+- 2D Platformer Mechanics
+- Physics & Collision System
+- State Machine Architecture
+- Modular Game Systems
+
+---
+
+### 🌐 Web Development
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
+
+---
+
+### 🖥️ Desktop Development
+- Java Applications
+- C# Applications
+- System-based Application Design
+
+---
 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
 ## 📌 Current Focus
 
-- 📍 Location-based Task Manager App
-- 🧩 Clean Architecture & System Design
-- 📊 Operational SOP-based workflow modeling
-- 🧠 Structured thinking before coding
+- 🎮 Building a 2D Platformer Game (Core Mechanics First)
+- 🧠 Designing scalable game architecture
+- ⚙️ Improving physics & collision handling systems
+- 🌐 Expanding full-stack capabilities
+- 🧩 Writing cleaner, more maintainable code
 
 ---
 
@@ -55,15 +76,14 @@
 
 ---
 
-## 🌊 Philosophy
+## 🎯 Philosophy
 
-> Discipline beats motivation.  
-> System beats talent.  
-> Structure beats chaos.
+> Code is temporary.  
+> Architecture is long-term.  
+> Systems scale. Chaos doesn't.
 
 ---
 
-## 🤝 Connect
+## 🚀 Status
 
-- 🌍 Indonesia
-- 🧭 Explorer by field, engineer by mind
+Always building.
